@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently studying Computer Science at Ho Chi Minh City University of Technology - Vietnam National University.
 🚀 And this is my journey:
-![Progress](https://progress-bar.dev/40/?title=Loading)
+![Progress](https://progress-bar.dev/70/?title=Loading)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nhân Quang) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@NhanQuang-jk3mi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quangnhanne123@gmail.com) 
