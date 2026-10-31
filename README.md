@@ -1,14 +1,12 @@
 <div align="center">
 
 # Hi there, I'm Nhan Bui 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Aspiring+AI+%26+Software+Engineer;Building+Agentic+Workflows+%26+Backend+Systems;Exploring+RAG%2C+Vector+Search+%26+FastAPI)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:buiquangnhan3004@gmail.com"><img src="https://img.shields.io/badge/Email-buiquangnhan3004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Nhan_Bui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nhan-bui-80569a39a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nhan_Bui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
 </div>
 
 ---
@@ -50,10 +48,9 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Academic Escalation Referee** | Trợ lý tra cứu chính sách học vụ sử dụng RAG, Hybrid Search (pgvector + FTS), Gemini API và CI/CD testing | `FastAPI` `PostgreSQL` `pgvector` `Docker` | [GitHub](#) • [Demo](#) |
-| **AI Travel Planner** | Hệ thống Multi-Agent tự động nghiên cứu điểm đến, tổng hợp lịch trình và xuất file đồng bộ Google Calendar | `Python` `LangGraph` `Streamlit` `Agno` | [GitHub](#) • [Demo](#) |
-| **VectorStore in C++** | In-memory vector store tự xây dựng cấu trúc dữ liệu, hỗ trợ tìm kiếm Top-K với độ trễ tối ưu | `C++` `Data Structures` `Algorithms` | [GitHub](#) |
-
+| **Academic Escalation Referee** | Trợ lý tra cứu chính sách học vụ sử dụng RAG, Hybrid Search (pgvector + FTS), Gemini API và CI/CD testing | `FastAPI` `PostgreSQL` `pgvector` `Docker` | [GitHub](https://github.com/nhanbui304/academic-escalation-referee) • [Demo](https://aersystem.vercel.app/) |
+| **AI Travel Planner** | Hệ thống Multi-Agent tự động nghiên cứu điểm đến, tổng hợp lịch trình và xuất file đồng bộ Google Calendar | `Python` `LangGraph` `Streamlit` `Agno` | [GitHub](https://github.com/nhanbui304/travel_agent) • [Demo](https://travelagent-hjjytfk4i88unxxfgjgb3e.streamlit.app/) |
+| **VectorStore in C++** | In-memory vector store tự xây dựng cấu trúc dữ liệu, hỗ trợ tìm kiếm Top-K với độ trễ tối ưu | `C++` `Data Structures` `Algorithms` | [GitHub](https://github.com/nhanbui304/VectorStore) |
 ---
 
 ### 📊 GitHub Activity
